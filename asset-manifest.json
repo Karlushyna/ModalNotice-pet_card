@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ModalNotice-pet_card/static/css/main.f5d6489b.css",
-    "main.js": "/ModalNotice-pet_card/static/js/main.2a20608a.js",
+    "main.js": "/ModalNotice-pet_card/static/js/main.ce73e075.js",
     "index.html": "/ModalNotice-pet_card/index.html",
     "main.f5d6489b.css.map": "/ModalNotice-pet_card/static/css/main.f5d6489b.css.map",
-    "main.2a20608a.js.map": "/ModalNotice-pet_card/static/js/main.2a20608a.js.map"
+    "main.ce73e075.js.map": "/ModalNotice-pet_card/static/js/main.ce73e075.js.map"
   },
   "entrypoints": [
     "static/css/main.f5d6489b.css",
-    "static/js/main.2a20608a.js"
+    "static/js/main.ce73e075.js"
   ]
 }
